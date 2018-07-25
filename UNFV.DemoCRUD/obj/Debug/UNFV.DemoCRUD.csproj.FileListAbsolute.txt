@@ -1,0 +1,13 @@
+C:\Users\PEDRO\Desktop\SesionesCurso\POO\CICLO_IV\SeccionBPOO201701\20170702\UNFV.DemoCRUD\UNFV.DemoCRUD\bin\Debug\UNFV.DemoCRUD.exe.config
+C:\Users\PEDRO\Desktop\SesionesCurso\POO\CICLO_IV\SeccionBPOO201701\20170702\UNFV.DemoCRUD\UNFV.DemoCRUD\bin\Debug\UNFV.DemoCRUD.exe
+C:\Users\PEDRO\Desktop\SesionesCurso\POO\CICLO_IV\SeccionBPOO201701\20170702\UNFV.DemoCRUD\UNFV.DemoCRUD\bin\Debug\UNFV.DemoCRUD.pdb
+C:\Users\PEDRO\Desktop\SesionesCurso\POO\CICLO_IV\SeccionBPOO201701\20170702\UNFV.DemoCRUD\UNFV.DemoCRUD\obj\Debug\UNFV.DemoCRUD.csprojResolveAssemblyReference.cache
+C:\Users\PEDRO\Desktop\SesionesCurso\POO\CICLO_IV\SeccionBPOO201701\20170702\UNFV.DemoCRUD\UNFV.DemoCRUD\obj\Debug\UNFV.DemoCRUD.frmInsertarRegistro.resources
+C:\Users\PEDRO\Desktop\SesionesCurso\POO\CICLO_IV\SeccionBPOO201701\20170702\UNFV.DemoCRUD\UNFV.DemoCRUD\obj\Debug\UNFV.DemoCRUD.Properties.Resources.resources
+C:\Users\PEDRO\Desktop\SesionesCurso\POO\CICLO_IV\SeccionBPOO201701\20170702\UNFV.DemoCRUD\UNFV.DemoCRUD\obj\Debug\UNFV.DemoCRUD.csproj.GenerateResource.Cache
+C:\Users\PEDRO\Desktop\SesionesCurso\POO\CICLO_IV\SeccionBPOO201701\20170702\UNFV.DemoCRUD\UNFV.DemoCRUD\obj\Debug\UNFV.DemoCRUD.exe
+C:\Users\PEDRO\Desktop\SesionesCurso\POO\CICLO_IV\SeccionBPOO201701\20170702\UNFV.DemoCRUD\UNFV.DemoCRUD\obj\Debug\UNFV.DemoCRUD.pdb
+C:\Users\PEDRO\Desktop\SesionesCurso\POO\CICLO_IV\SeccionBPOO201701\20170702\UNFV.DemoCRUD\UNFV.DemoCRUD\obj\Debug\UNFV.DemoCRUD.frmListarRegistros.resources
+C:\Users\PEDRO\Desktop\SesionesCurso\POO\CICLO_IV\SeccionBPOO201701\20170702\UNFV.DemoCRUD\UNFV.DemoCRUD\obj\Debug\UNFV.DemoCRUD.frmConsultarRegistro.resources
+C:\Users\PEDRO\Desktop\SesionesCurso\POO\CICLO_IV\SeccionBPOO201701\20170702\UNFV.DemoCRUD\UNFV.DemoCRUD\obj\Debug\UNFV.DemoCRUD.frmBorrarArticulo.resources
+C:\Users\PEDRO\Desktop\SesionesCurso\POO\CICLO_IV\SeccionBPOO201701\20170702\UNFV.DemoCRUD\UNFV.DemoCRUD\obj\Debug\UNFV.DemoCRUD.frmModificarArticulo.resources
